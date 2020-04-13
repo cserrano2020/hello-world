@@ -2,4 +2,4 @@
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Batata lixo sempre <h2>
 <h2> Bora Devops aaa <h2>
-<h2> Bora Devops aaa <h2>
+
